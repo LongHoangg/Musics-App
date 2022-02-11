@@ -18,7 +18,6 @@ export default function SongControl({ isPlaying, setIsPlaying, nextSongClick, pr
         }else{
             setBtn('Pause')
         }
-
     }
 
     return (
